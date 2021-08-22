@@ -6,4 +6,5 @@ Android, iOS.
 <li>Xamarin.Forms 5.0</li>
 <li>MVVM</li>
 <img src="https://github.com/dev-jardeloliveira/Xamarin/blob/main/AppArte.gif" width="200" style="max-width:100%;" />
+<img src="https://github.com/dev-jardeloliveira/Xamarin/blob/main/AppArte.gif" width="200" style="max-width:100%;" />
 
