@@ -5,4 +5,4 @@ Trabalhos e estudos sobre Xamarin Forms
 Android, iOS.
 <li>Xamarin.Forms 5.0</li>
 <li>MVVM</li>
-<img source="https://github.com/dev-jardeloliveira/Xamarin/blob/main/AppArte.gif" />
+<img src="https://github.com/dev-jardeloliveira/Xamarin/blob/main/AppArte.gif" />
