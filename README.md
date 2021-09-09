@@ -5,17 +5,17 @@
 Android, iOS.
 <li>Xamarin.Forms 5.0</li>
 <li>MVVM</li>
-<img src="https://github.com/dev-jardeloliveira/Xamarin/blob/main/AppArte.gif" width="200" style="max-width:100%;" />
+<img src="https://github.com/dev-jardeloliveira/Xamarin/blob/main/AppArte.gif"  />
 
 Android, iOS.
 <li>Xamarin.Forms 5.0</li>
 <li>MVVM</li>
 <li>SQLITE</li>
-<img src="https://github.com/dev-jardeloliveira/Xamarin/blob/main/ecommerce.gif" width="200" style="max-width:100%; />
+<img src="https://github.com/dev-jardeloliveira/Xamarin/blob/main/ecommerce.gif"  />
 
 Android, iOS.
 <li>Xamarin.Forms 5.0</li>
 <li>MVVM</li>
 <li>ZXing</li>
-<img src="https://github.com/dev-jardeloliveira/Xamarin/blob/main/QRcode.gif" width="200" style="max-width:100%; />
+<img src="https://github.com/dev-jardeloliveira/Xamarin/blob/main/QRcode.gif"  />
 
