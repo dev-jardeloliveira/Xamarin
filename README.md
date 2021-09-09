@@ -10,5 +10,6 @@ Android, iOS.
 Android, iOS.
 <li>Xamarin.Forms 5.0</li>
 <li>MVVM</li>
-<img src="https://github.com/dev-jardeloliveira/Xamarin/blob/main/Novo-v%C3%ADdeo.gif"  />
+<li>SQLITE</li>
+<img src="https://github.com/dev-jardeloliveira/Xamarin/blob/main/ecommerce.gif"  />
 
