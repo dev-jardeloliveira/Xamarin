@@ -8,10 +8,7 @@
 <li>SQLITE</li>
 <img src="https://github.com/dev-jardeloliveira/Xamarin/blob/main/ecommerce.gif" width="200"  />
 
-<h3>Platforms Android, iOS</h3>
-<li>Xamarin.Forms 5.0</li>
-<li>MVVM</li>
-<img src="https://github.com/dev-jardeloliveira/Xamarin/blob/main/AppArte.gif" width="200"   />
+
 
 
 <h3>Platforms Android, iOS</h3>
