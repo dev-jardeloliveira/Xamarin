@@ -6,6 +6,7 @@
 <li>Xamarin.Forms 5.0</li>
 <li>MVVM</li>
 <li>CollectionView</li>
+<li>PancakeView</li>
 <li>Customização de componentes</li>
 <img src="https://github.com/dev-jardeloliveira/Xamarin/blob/main/cafe.gif" width="200"  />
 
