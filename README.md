@@ -12,6 +12,11 @@
 
 <li>Xamarin.Forms 5.0</li>
 <li>MVVM</li>
+<li>CarouselView</li>
+<img src="https://github.com/dev-jardeloliveira/Xamarin/blob/main/Onboarding.gif" width="200"  />
+
+<li>Xamarin.Forms 5.0</li>
+<li>MVVM</li>
 <li>SQLITE</li>
 <img src="https://github.com/dev-jardeloliveira/Xamarin/blob/main/ecommerce.gif" width="200"  />
 
